@@ -1,0 +1,1 @@
+/home/syed/Desktop/assignment5/StoringClosuresUsingGenericParameters/target/debug/StoringClosuresUsingGenericParameters: /home/syed/Desktop/assignment5/StoringClosuresUsingGenericParameters/src/main.rs
